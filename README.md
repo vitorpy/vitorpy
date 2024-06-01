@@ -1,4 +1,8 @@
-## Yo! I'm Vitor 👋
+## Hey, I'm Vitor! 👋
+
+[![Twitter: PyVitor](https://img.shields.io/twitter/follow/PyVitor?style=social)](https://twitter.com/PyVitor)
+[![Telegram: @vitorpy](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/vitorpy)
+[![GitHub: vitorpy](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/vitorpy)
 
 I've been around the block a few times, wearing hats from engineer to CTO. I even had a stint at a VC firm, but let's not hold that against me. 🙈
 

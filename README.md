@@ -8,4 +8,4 @@ I spent a couple years on [SPRING](http://www.dpi.inpe.br/spring/), an open sour
 
 Since 2017 (with a brief detour at Big Tech!), blockchain projects have become my main jam. Decentralized finance (DeFi) and decentralized identity are areas I'm particularly passionate about.
 
-- 📫 How to reach me: email me at [📧 vitor@vitorpy.com](mailto:vitor@vitorpy.com), or message me on Telegram (💬 [@vitorpyb](https://t.me/vitorpyb)).
+- 📫 How to reach me: email me at 📧 [vitor@vitorpy.com](mailto:vitor@vitorpy.com), or message me on Telegram (💬 [@vitorpyb](https://t.me/vitorpyb)).

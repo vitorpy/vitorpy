@@ -1,11 +1,11 @@
-## Hi there 👋
+## Yo! I'm Vitor 👋
 
-Hey, I'm Vitor. I've worn many hats, from software engineer to CTO. While I'm ashamed to admit it, I even worked for a VC for a while. I'm sorry.
+I've been around the block a few times, wearing hats from engineer to CTO. I even had a stint at a VC firm, but let's not hold that against me. 🙈
 
-I've also been a founder a few times. My first venture, SIM, applied computer vision to materials science (though it's no longer around). The second was [Pillar](https://pillar.fi), an Ethereum wallet.
+I've also tried my hand at founding a couple of companies. My first, SIM, used computer vision for materials science (RIP). The second was [Pillar](https://pillar.fi), an Ethereum wallet.
 
-I spent a couple years on [SPRING](http://www.dpi.inpe.br/spring/), an open source GIS with fantastic image processing capabilities. Biometrics, particularly fingerprints, also piqued my interest for a while. It was a fun challange, and I even have a [few old projects](https://github.com/vitorpy/qwsqviewer) from that time on GitHub.
+I spent a couple years on [SPRING](http://www.dpi.inpe.br/spring/), an open source GIS with amazing image processing capabilities. Biometrics, particularly fingerprints, also caught my eye for a bit. It was a fun challenge, and you can find a [few old projects](https://github.com/vitorpy/qwsqviewer) from that time here on GitHub.
 
-Since 2017 (with a brief detour at Big Tech!), blockchain projects have become a major focus. Decentralized finance (DeFi) and decentralized identity are areas I'm particularly passionate about.
+Since 2017 (with a brief detour at Big Tech!), blockchain projects have become my main jam. Decentralized finance (DeFi) and decentralized identity are areas I'm particularly passionate about.
 
-- 📫 How to reach me: email me at [vitor@vitorpy.com](mailto:vitor@vitorpy.com), or message me on [Telegram](https://t.me/vitorpyb).
+- 📫 How to reach me: email me at [📧 vitor@vitorpy.com](mailto:vitor@vitorpy.com), or message me on Telegram (💬 [@vitorpyb](https://t.me/vitorpyb)).

@@ -1,7 +1,6 @@
 ## Hi, I'm Vitor, a Web3 builder. 🛠️👋
 
 [![Twitter: PyVitor](https://img.shields.io/twitter/follow/PyVitor?style=social)](https://x.com/PyVitor)
-[![Telegram: @vitorpy](https://img.shields.io/badge/telegram-Channel-blue?logo=telegram)](https://t.me/vitorpy)
 [![GitHub: vitorpy](https://img.shields.io/github/followers/vitorpy?label=follow&style=social)](https://github.com/vitorpy)
 
 I'm a seasoned engineer and founder with a passion for building decentralized solutions. I've dabbled in everything from computer vision to biometrics, but my heart lies in the world of Web3. 

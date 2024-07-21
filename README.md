@@ -1,4 +1,6 @@
-## Vitor, cyberspace cowboy.
+![@vitorpy](https://raw.githubusercontent.com/vitorpy/vitorpy/main/header.png)
+
+---
 
 Engineer and founder navigating the onchain frontier. A few years here and still dreaming of cyberspace. Seasoned builder of computer-human systems. Focus locked on decentralized protocols. 
 

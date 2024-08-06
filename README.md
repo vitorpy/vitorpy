@@ -1,4 +1,4 @@
-![@vitorpy](https://raw.githubusercontent.com/vitorpy/vitorpy/main/header.png)
+![@vitorpy](https://raw.githubusercontent.com/vitorpy/vitorpy/main/future_of_tech.jpeg)
 
 ---
 

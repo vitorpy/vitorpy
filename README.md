@@ -2,4 +2,4 @@
 
 **Reach out:** 
 * Telegram: [@vitorpy](https://t.me/vitorpy)
-* Twitter: [@PyVitor](https://x.com/PyVitor)
+* Twitter: [@pyvitor](https://x.com/pyvitor)

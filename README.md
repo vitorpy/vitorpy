@@ -1,4 +1,4 @@
-🦀 Onchain engineer & founder. Equal parts code whisperer and ponzinomics enthusiast. Exploring Solana. A few years here and still dreaming of cyberspace. Building the new new thing.
+🦀 Onchain engineer & founder. Equal parts code whisperer and ponzinomics maximalist. Building on Solana. A few years here and still dreaming of cyberspace. Creating the [new new thing](https://darklake.fi).
 
 **Reach out:** 
 

@@ -2,4 +2,4 @@
 
 **Reach out:** 
 
-[Mail](mailto:vitor@vitorpy.com) [Telegram](https://t.me/vitorpy) [X](https://x.com/pyvitor)
+[Telegram](https://t.me/vitorpy) [X](https://x.com/pyvitor)
